@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/N-most-occuring-element/static/css/main.5f361e03.chunk.css",
+    "main.js": "/N-most-occuring-element/static/js/main.cef01a4c.chunk.js",
+    "main.js.map": "/N-most-occuring-element/static/js/main.cef01a4c.chunk.js.map",
+    "runtime-main.js": "/N-most-occuring-element/static/js/runtime-main.e16f1736.js",
+    "runtime-main.js.map": "/N-most-occuring-element/static/js/runtime-main.e16f1736.js.map",
+    "static/js/2.88ea89c6.chunk.js": "/N-most-occuring-element/static/js/2.88ea89c6.chunk.js",
+    "static/js/2.88ea89c6.chunk.js.map": "/N-most-occuring-element/static/js/2.88ea89c6.chunk.js.map",
+    "index.html": "/N-most-occuring-element/index.html",
+    "precache-manifest.4f4221fd52773bab3d89c8096b997dac.js": "/N-most-occuring-element/precache-manifest.4f4221fd52773bab3d89c8096b997dac.js",
+    "service-worker.js": "/N-most-occuring-element/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/N-most-occuring-element/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.88ea89c6.chunk.js.LICENSE.txt": "/N-most-occuring-element/static/js/2.88ea89c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e16f1736.js",
+    "static/js/2.88ea89c6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cef01a4c.chunk.js"
+  ]
+}
