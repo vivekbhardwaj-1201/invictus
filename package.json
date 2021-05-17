@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vivekbhardwaj-1201.github.io/N-most-occuring-element",
+  "homepage": "http://vivekbhardwaj-1201.github.io/invictus/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
